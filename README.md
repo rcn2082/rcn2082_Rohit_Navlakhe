@@ -1,7 +1,7 @@
 # rcn2082_Rohit_Navlakhe
 
 
-Introduction
+# Introduction
 
 
 # Hi 👋, I'm Rohit
@@ -19,3 +19,13 @@ Introduction
 - Interests: AI/ML, Cloud Computing Problem Solving
 
 ⚡ Always learning and building real-world projects
+
+
+# Socials
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-navlakhe-91a024318/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](rcn2082@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/rcn2082)
