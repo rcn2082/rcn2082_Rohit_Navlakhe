@@ -34,14 +34,14 @@
 
 ## 💻 Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Html](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=react)
+![Networks](https://img.shields.io/badge/Networks-black?style=for-the-badge&logo=next.js)
+![MySQL](https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mongodb)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge&logo=mysql)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-orange?style=for-the-badge&logo=git)
 
 
 # ## 📊 GitHub Stats
