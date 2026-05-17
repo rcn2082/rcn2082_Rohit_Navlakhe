@@ -44,8 +44,10 @@
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-orange?style=for-the-badge&logo=git)
 
 
-# ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcn2082&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcn2082&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_Rohit_Navlakhe&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit_Navlakh&layout=compact&theme=tokyonight)
