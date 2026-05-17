@@ -1,5 +1,5 @@
 # rcn2082_Rohit_Navlakhe
-# Hi 👋, I'm Rohit
+
 
 Introduction
 
